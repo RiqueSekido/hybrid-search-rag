@@ -1,0 +1,18 @@
+{
+  "model": "sentence-transformers/all-MiniLM-L6-v2",
+  "revision": "c9745ed1d9f207416be6d2e6f8de32d1f16199bf",
+  "sentence_transformers": "5.7.0",
+  "transformers": "5.23.0",
+  "torch": "2.15.0",
+  "max_input_tokens": 256,
+  "dimensions": 384,
+  "normalization": "L2",
+  "similarity": "cosine",
+  "batch_size": 32,
+  "cache_hit": false,
+  "embedding_seconds": 193.07173609999973,
+  "truncated_documents": 2864,
+  "split": "dev",
+  "mean_query_ms": 27.043487037001988,
+  "documents": 3633
+}
